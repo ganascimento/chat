@@ -3,7 +3,7 @@
 #### This project is a simple chat
 
 <p align="center">
-  <img src="http://www.gadev.com.br/chat/chat_example.gif" />
+  <img src="http://www.gadev.com.br/gif/chat_example.gif" />
 </p>
 
 It contains some functions, like:
